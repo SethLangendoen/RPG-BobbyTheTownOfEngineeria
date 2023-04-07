@@ -9,26 +9,21 @@ One day, a terrible earthquake struck Enginerea resulting in severe damage to ma
 
 **Rules of the Game**:
 
--	Your goal is to play as Bobby the Builder and rebuild the destroyed house that was caused by an earthquake. 
--	Pass through each level by defeating enemies that are guarding the materials to rebuild the Town hall.
--	After each level, your stats will be upgraded to help you through the game. 
--	Shops are available for you to buy equipment and weapons.
--	Bring the materials to the Town hall for rebuild and the game ends.
+-	Your goal is to play as Bobby the Builder and defeat enemies with your axe projectiles to rebuild the ruined town hall. 
+-	Pass through each level by defeating all enemies and complete various platforming challenges.
+-	During each level, you will have the ability to upgrade your stats in the shop menu. 
+    -   The shop offers speed, damage, health, and defense upgrades.
+-	Complete the third level successfully to finish the game.
 
 **Shop Menu**:
 
-1.	Open the shop menu using the provided button on screen (not available during battles), the game pauses while the shop menu is open.
+1.	Open the shop menu using the "p" button; the game pauses while the shop menu is open.
 2.	Equipment upgrades:
-    - Helmet
-    - Shield
-    - Boots
-3.	Strength upgrade of a particular ability:
-    -	Punch: 100% chance to hit. Deals moderate/low damage. 
-        -	Upgrade increases the damage
-    -	Shoot: 80% chance of hitting. Deals moderate/high damage. 
-        -	Upgrade the chance of hitting the enemy.
-        -	Upgrade the damage dealt.
-    -	Hat chuck: 10% chance of hitting. Kills enemy on hit. 
-        -	Upgrade increases the chance of a hit.
-    -	Kick: 90% chance of hitting. Deals moderate damage. 10% chance to deal 2x damage with a critical hit.
-        -	Upgrade increases the critical hit multiplier
+    -   Wooden Shield (small defense upgrade)
+    -   Metal Shield (large defense upgrade)
+    -   Boots (speed upgrades)
+    -   Axe (increase damage by a large amount)
+3.	Other upgrades:
+    -	Health flask (increase current HP)
+    -	Strength (increase damage by 1)
+
